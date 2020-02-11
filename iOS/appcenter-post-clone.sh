@@ -1,0 +1,1 @@
+dotnet sln $APPCENTER_SOURCE_DIRECTORY/CustomRenderer.sln remove $APPCENTER_SOURCE_DIRECTORY/Droid/CustomRenderer.Droid.csproj
